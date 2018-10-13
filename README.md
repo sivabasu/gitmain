@@ -1,3 +1,3 @@
 # gitmain
-This is the main directory.
+This is the main directory. It contains different projects.
 
